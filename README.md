@@ -1,4 +1,4 @@
-# yandex_praktikum
+# yandex_practicum
 
 RU
 
