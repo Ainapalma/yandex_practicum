@@ -1,6 +1,6 @@
 ## EN 
 
-### Borrower Reliability Research: Bank Data Analysis
+### Bank Data Analysis: Borrower Reliability Research
 
 #### Objective
 Based on statistics on the solvency of clients, investigate whether the marital status and the number of the client's children affect the fact of repayment of the loan on time.
