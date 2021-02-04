@@ -1,6 +1,6 @@
 ## EN 
 
-### Telecom Company Pt1: Statistical Data Analysis, Determination of a Favorable Tariff
+### Telecom Company Pt 1: Statistical Data Analysis, Determination of a Favorable Tariff
 
 #### Objective
 Based on the data of the mobile operator's customers, analyze customer behavior and find the optimal tariff
