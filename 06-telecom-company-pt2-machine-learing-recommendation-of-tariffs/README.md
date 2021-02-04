@@ -1,6 +1,6 @@
 ## EN 
 
-### Telecom Company Pt2: Building a Model to Determine a Suitable Tariff.
+### Telecom Company Pt 2: Building a Model to Determine a Suitable Tariff.
 
 #### Objective
 Based on the previous data study, build the Machine Learning model for the classification problem, 
