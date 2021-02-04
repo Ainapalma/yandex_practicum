@@ -1,6 +1,6 @@
 ## EN 
 
-### Real Estate Market Analysis: Apartments For Sale in St. Petersburg
+### Gamedev: Studying the Patterns That Determine the Success of Games
 
 #### Objective
 Using historical data on sales of computer games, user and expert ratings, genres and platforms, 
@@ -20,7 +20,7 @@ Python, Pandas, Numpy, Datetime, SciPy, Matplotlib, Seaborn
 
 ## RU 
 
-### Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
+### Изучение закономерностей, определяющих успешность игр
 
 #### Задача
 Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры 
