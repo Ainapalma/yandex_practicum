@@ -1,6 +1,6 @@
 ## EN 
 
-### Bank Customer Churn Modeling
+### Insurance Company: Development of an Algorithm to Protect Customer Data
 
 #### Objective
 The method of data transformation to protect the personal information of the clients of the insurance company.
@@ -19,7 +19,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SkLearn
 
 ## RU 
 
-### Моделирование оттока клиентов банка
+### Разработка алгоритма для защиты данных
 
 #### Задача
 Методом преобразования данных защитить личную информацию клиентов страховой компании. 
