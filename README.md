@@ -14,10 +14,10 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, Pymystem3, SciPy, Scikit-Learn, L
  № | Project | Description | Libraries
 --- | --- | --- | ---
 16 | [Optimization of Electricity Consumption in Industry](Text) | Text | *Text*
-15 | [Text](Text) | Text | *Text*
-14 | [Text](Text) | Text | *Text*
-13 | [Text](Text) | Text | *Text*
-12 | [Text](Text) | Text | *Text*
+15 | [Computer Vision: Age Recognition](Text) | Text | *Text*
+14 | [Airline Data Research - Testing Demand Increase Hypothesis During Festivals](Text) | Text | *Text*
+13 | [Natural Language Processing: Classifying Comments](Text) | Text | *Text*
+12 | [Ride-hailing Company: Predicting the Number of Taxi Orders](Text) | Text | *Text*
 11 | [Car Price Prediction Model](Text) | Text | *Text*
 10 | [Insurance Company: Development of an Algorithm to Protect Customer Data](https://github.com/Ainapalma/yandex_practicum/blob/main/10-insurance-company-development-of-an-algorithm-to-protect-customer-data/README.md) | The method of data transformation to protect the personal information of the clients of the insurance company | *Python, Pandas, NumPy, Matplotlib, Seaborn, SkLearn*
 09 | [Metalworking Enterprise: Building Machine Learning Algorithm](https://github.com/Ainapalma/yandex_practicum/tree/main/09-metalworking-enterprise-building-machine-learning-algorithm%20) | Development of a model predicting the recovery rate of gold from gold ore | *Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn (LinearRegression, mean_absolute_error, make_scorer, cross_val_score, KFold)*
