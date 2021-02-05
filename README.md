@@ -13,7 +13,7 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, Pymystem3, SciPy, Scikit-Learn, L
 
  № | Project | Description | Libraries
 --- | --- | --- | ---
-16 | [Optimization of Electricity Consumption in Industry](Text) | Text | *Text*
+16 | [Final: Optimization of Electricity Consumption in Industry](Text) | Text | *Text*
 15 | [Computer Vision: Age Recognition](Text) | Text | *Text*
 14 | [Airline Data Research - Testing Demand Increase Hypothesis During Festivals](Text) | Text | *Text*
 13 | [Natural Language Processing: Classifying Comments](Text) | Text | *Text*
