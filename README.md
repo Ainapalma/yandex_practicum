@@ -18,7 +18,7 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, Pymystem3, SciPy, Scikit-Learn, L
 14 | [Text](Text) | Text | *Text*
 13 | [Text](Text) | Text | *Text*
 12 | [Text](Text) | Text | *Text*
-11 | [Text](Text) | Text | *Text*
+11 | [Car Price Prediction Model](Text) | Text | *Text*
 10 | [Insurance Company: Development of an Algorithm to Protect Customer Data](https://github.com/Ainapalma/yandex_practicum/blob/main/10-insurance-company-development-of-an-algorithm-to-protect-customer-data/README.md) | The method of data transformation to protect the personal information of the clients of the insurance company | *Python, Pandas, NumPy, Matplotlib, Seaborn, SkLearn*
 09 | [Metalworking Enterprise: Building Machine Learning Algorithm](https://github.com/Ainapalma/yandex_practicum/tree/main/09-metalworking-enterprise-building-machine-learning-algorithm%20) | Development of a model predicting the recovery rate of gold from gold ore | *Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn (LinearRegression, mean_absolute_error, make_scorer, cross_val_score, KFold)*
 08 | [Choosing a Region for the Development of New Oil Fields](https://github.com/Ainapalma/yandex_practicum/blob/main/08-choosing-a-region-for-the-development-of-new-oil-fields/README.md) | Decide in which region to extract oil. Build a machine learning model that will help determine the region where mining will bring the most profit with the least risk of loss | *Python, Pandas, NumPy, Seaborn, Scikit-Learn, Bootstrap, SciPy*
