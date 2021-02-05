@@ -13,7 +13,7 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, Pymystem3, SciPy, Scikit-Learn, L
 
  № | Project | Description | Libraries
 --- | --- | --- | ---
-16 | [Text](Text) | Text | *Text*
+16 | [Optimization of Electricity Consumption in Industry](Text) | Text | *Text*
 15 | [Text](Text) | Text | *Text*
 14 | [Text](Text) | Text | *Text*
 13 | [Text](Text) | Text | *Text*
