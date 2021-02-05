@@ -2,7 +2,7 @@
 
 [Certificate of completion](https://drive.google.com/drive/folders/1gQfkkfjZR4FnNe3KYCGgJJqzMCqgwnMi?usp=sharing)
 
-Repository containing portfolio of Data Analytics / Machine Learning projects completed during the curriculum at [Yandex.Practicum](https://practicum.yandex.com/profile/data-scientist/)
+Repository containing portfolio of Data Analytics / Machine Learning projects completed during the curriculum at [Yandex.Practicum](https://praktikum.yandex.ru/data-scientist/)
 
 ## Technology stack
 IDE: Jupyter Notebook <br>
