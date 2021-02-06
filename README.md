@@ -1,6 +1,6 @@
 # Yandex Practicum Data Science projects
 
-[Certificate of completion (ru and en versions)](https://drive.google.com/drive/folders/1gQfkkfjZR4FnNe3KYCGgJJqzMCqgwnMi?usp=sharing)
+[Certificate of completion](https://drive.google.com/drive/folders/1gQfkkfjZR4FnNe3KYCGgJJqzMCqgwnMi?usp=sharing)
 
 Repository containing portfolio of Data Analytics / Machine Learning projects completed during the curriculum at [Yandex.Practicum](https://praktikum.yandex.ru/data-scientist/)
 
