@@ -11,7 +11,7 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, Pymystem3, SciPy, Scikit-Learn, L
 
 ## List of projects
 
- № | Project | Description | Libraries
+ № | Project | Description | Stack
 --- | --- | --- | ---
 16 | [Final: Optimization of Electricity Consumption in Industry](Text) | Text | *Text*
 15 | [Computer Vision: Age Recognition](Text) | Text | *Text*
