@@ -1,6 +1,6 @@
 ## EN 
 
-### Choosing a region for the development of new oil fields
+### Choosing a Region for the Development of New Oil Fields
 
 #### Objective
 Decide in which region to extract oil. Build a machine learning model that will help determine 
