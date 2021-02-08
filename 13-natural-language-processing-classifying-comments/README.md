@@ -14,7 +14,7 @@ The model was trained to classify comments into positive and negative.
 Analyzed a dataset with markup on the toxicity of edits.
 
 #### Technology Stack
-Pandas, NumPy, Matplotlib, Seaborn, WordCloud, NLTK (SnowballStemmer, stopwords), TfidfVectorizer, torch, transformers
+Pandas, NumPy, Matplotlib, Seaborn, WordCloud, NLTK (SnowballStemmer, Stopwords), TfidfVectorizer, Torch, Transformers
 
 ## RU 
 
@@ -33,4 +33,4 @@ Pandas, NumPy, Matplotlib, Seaborn, WordCloud, NLTK (SnowballStemmer, stopwords)
 Проанализирован набор данных с разметкой о токсичности правок.
 
 #### Стек технологий
-Pandas, NumPy, Matplotlib, Seaborn, WordCloud, NLTK (SnowballStemmer, stopwords), TfidfVectorizer, torch, transformers
+Pandas, NumPy, Matplotlib, Seaborn, WordCloud, NLTK (SnowballStemmer, Stopwords), TfidfVectorizer, Torch, Transformers
