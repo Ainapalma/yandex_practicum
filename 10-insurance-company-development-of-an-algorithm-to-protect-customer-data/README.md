@@ -15,7 +15,7 @@ then multiplied by an invertible matrix, the size of which is equal to the numbe
 The metrics are completely the same. It can be concluded that the algorithm works.
 
 #### Technology Stack
-Python, Pandas, NumPy, Matplotlib, Seaborn, SkLearn
+Pandas, NumPy, Matplotlib, Seaborn, SkLearn
 
 ## RU 
 
@@ -32,4 +32,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SkLearn
 размер которой равен числу признаков. Метрики полностью совпали. Можно сделать вывод, что алгоритм работает.
 
 #### Стек технологий
-Python, Pandas, NumPy, Matplotlib, Seaborn, SkLearn
+Pandas, NumPy, Matplotlib, Seaborn, SkLearn
