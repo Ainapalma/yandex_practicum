@@ -1,6 +1,6 @@
 ## EN 
 
-### Optimization of Electricity Consumption in Iмndustry
+### Optimization of Electricity Consumption in Industry
 
 #### Objective
 Optimization of production costs
@@ -20,7 +20,7 @@ Pandas, Numpy, Seaborn, Matplotlib, Statsmodel, Sklearn, Catboost, Lightgbm, XGb
 
 ## RU 
 
-### Разработка алгоритма для защиты данных
+### Оптимизация потребления электроэнергии в промышленности
 
 #### Задача
 Отимизации производственных расходов 
